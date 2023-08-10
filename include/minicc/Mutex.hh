@@ -27,3 +27,5 @@ private:
 };
 
 } // namespace minicc
+
+#define LockGuard(x) error "missing object name"
